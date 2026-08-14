@@ -8,7 +8,7 @@
   "server": {
     "ip": "banglaserver.progamer.me",
     "port": 35900,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
