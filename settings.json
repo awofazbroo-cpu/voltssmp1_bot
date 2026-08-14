@@ -1,13 +1,13 @@
 {
-  "name": "voltssmp1_Bot",
+  "name": "Awofaz",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "bangla",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "voltssmp1.aternos.me",
-    "port": 16973,
+    "ip": "banglaserver.progamer.me",
+    "port": 35900,
     "version": "1.21.1"
   },
   "position": {
